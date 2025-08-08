@@ -1,1 +1,1 @@
-# Coding-School-Fraud-Project
+# Coding-School-Fraud-Detection-Project
